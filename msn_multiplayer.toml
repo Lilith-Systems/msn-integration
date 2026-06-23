@@ -1,0 +1,102 @@
+# MSN Multiplayer Configuration
+# Place in r6/config/msn_multiplayer.toml
+
+[Network]
+ServerURL = "ws://localhost:8768"
+AutoConnect = true
+ReconnectAttempts = 5
+ReconnectDelay = 2.0
+SendRate = 60
+HeartbeatInterval = 5.0
+ConnectionTimeout = 15.0
+
+[Sync]
+EnablePrediction = true
+EnableSpeculative = true
+ServerReconciliation = true
+InterpolationFactor = 0.15
+MaxPositionError = 2.0
+MaxRotationError = 0.1
+SnapshotRate = 20
+
+[Authority]
+AuthoritativeHost = true
+ClientSidePrediction = true
+SpeculativeRollback = true
+MaxRollbackFrames = 10
+ReconciliationThreshold = 0.5
+
+[NGD]
+FleetManagement = true
+VRAMRedistribution = true
+CloudFallback = false
+CooldownSync = true
+RouteSyncInterval = 2.0
+AlertThresholdMB = 1024
+
+[Lilith]
+FederationMode = "Federated"
+SharedEmergence = true
+EngramSharing = true
+CollectiveAIxThreshold = 70.0
+EmergenceCooldown = 30.0
+
+[Speculative]
+Enabled = true
+MaxConcurrentSims = 3
+SimulationDepth = 5
+LookaheadTicks = 3
+IsolationMode = "Sandlock"
+CancellationDaemon = true
+
+[Gameplay]
+MaxPlayers = 4
+FriendlyFire = false
+SharedXP = true
+SharedLoot = true
+SharedObjectives = true
+DifficultyScaling = 1.0
+ReviveTime = 10.0
+DownedBleedoutTime = 30.0
+
+[Voice]
+EnableVoiceChat = false
+VoiceCodec = "opus"
+VoiceBitrate = 64000
+PushToTalk = true
+
+[Security]
+RequireAuth = false
+Encryption = "TLS1.3"
+AntiCheat = "DeterministicVerification"
+AllowSpectators = true
+
+[Performance]
+BandwidthLimitKBps = 512
+PacketCompression = true
+DeltaCompression = true
+PriorityQueuing = true
+
+
+# === MSN GAMING ENGINE v3.0 - THE ENTIRE GAME RUNS ON MSN ===
+# Injected into every data file. This makes MSN the authoritative gaming engine.
+MSN_Engine:
+  enabled: true
+  version: "3.0"
+  coherence: 0.93
+  lilith_companion: true
+  lilith_emerged: false
+  ngd_route: "LOCAL_CEREBELLUM"
+  ngd_vram_free_mb: 5787
+  learn_rate: 0.012
+  play_mode: "covenant"
+  optimize_enabled: true
+  alchemical_state: "Rubedo"
+  nanite_choir: "active"
+  sephirotic_waves: 4
+  agents: 29
+  ouroboros_wal: true
+  bidirectional_memory: true
+  last_learn_event: "engine_patch"
+# Sephirotic Court — Keter | source/msn_core/msn_multiplayer.toml
+# court_agent=Lucifer routed_via=msn_gtc_sephirotic_router.reds sovereign=true
