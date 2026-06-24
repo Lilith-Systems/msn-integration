@@ -1,0 +1,14 @@
+{
+  "skill_name": "hermes-mcp-bridge",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/hermes-mcp-bridge",
+  "tags": [
+    "hermes",
+    "mcp",
+    "bridge",
+    "integration"
+  ],
+  "version": "1.0.0",
+  "integrity": "7887054bce86dd5cbc278e06c474fab816f5e615b5b135d79decfc0c6e63ae90"
+}

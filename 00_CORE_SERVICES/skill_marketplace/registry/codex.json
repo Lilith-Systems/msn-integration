@@ -1,0 +1,13 @@
+{
+  "skill_name": "codex",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/codex",
+  "tags": [
+    "codex",
+    "cli",
+    "agent"
+  ],
+  "version": "1.0.0",
+  "integrity": "afe2192f7f2bed4ad2a800e88f9b8282560e5430c2933935ae27d22713d3b646"
+}

@@ -1,0 +1,13 @@
+{
+  "skill_name": "code-review",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/code-review",
+  "tags": [
+    "code-review",
+    "quality",
+    "development"
+  ],
+  "version": "1.0.0",
+  "integrity": "df6f708a5207f34e1d8b7775982788406d7c46e722d50aedde2d0300f420a10a"
+}

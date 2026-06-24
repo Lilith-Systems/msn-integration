@@ -1,0 +1,13 @@
+{
+  "skill_name": "server-codebase",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/server-codebase",
+  "tags": [
+    "server",
+    "fastapi",
+    "backend"
+  ],
+  "version": "1.0.0",
+  "integrity": "97e89a52b15dbecb723e0aa6ad29ec177c4e7e2972d8faa5e4f59c3fcb9cb829"
+}

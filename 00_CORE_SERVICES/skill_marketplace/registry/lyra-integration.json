@@ -1,0 +1,13 @@
+{
+  "skill_name": "lyra-integration",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/lyra-integration",
+  "tags": [
+    "lyra",
+    "dialogue",
+    "npc"
+  ],
+  "version": "1.0.0",
+  "integrity": "634bd42139365189c299fa83fa00eaed6df59640097b94156571d386d543e48e"
+}

@@ -1,0 +1,13 @@
+{
+  "skill_name": "check-work",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/check-work",
+  "tags": [
+    "workflow",
+    "check",
+    "quality"
+  ],
+  "version": "1.0.0",
+  "integrity": "51a57345db2b6c393bcd83c635b586bf4e821e680ae96c4f7b2d34c43ea00582"
+}

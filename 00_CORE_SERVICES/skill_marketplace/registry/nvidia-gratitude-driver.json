@@ -1,0 +1,13 @@
+{
+  "skill_name": "nvidia-gratitude-driver",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/nvidia-gratitude-driver",
+  "tags": [
+    "nvidia",
+    "gpu",
+    "driver"
+  ],
+  "version": "1.0.0",
+  "integrity": "c200b73c6765a6645a25125746d6c7215a57ff6875847fa10b9994f2ff40d32c"
+}

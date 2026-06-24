@@ -1,0 +1,13 @@
+{
+  "skill_name": "create-skill",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/create-skill",
+  "tags": [
+    "skill-creation",
+    "scaffold",
+    "development"
+  ],
+  "version": "1.0.0",
+  "integrity": "fead9243b902177003c6f0a9d51c6768e20ddcb388be15d68769950d440bfd61"
+}

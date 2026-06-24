@@ -1,0 +1,13 @@
+{
+  "skill_name": "scribe-ledger-system",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/scribe-ledger-system",
+  "tags": [
+    "scribe",
+    "ledger",
+    "memory"
+  ],
+  "version": "1.0.0",
+  "integrity": "761f377595a6861edbf90c19172f586fdf85e39cb51072d60aa39799f89a46fe"
+}

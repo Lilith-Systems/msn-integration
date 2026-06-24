@@ -1,0 +1,13 @@
+{
+  "skill_name": "xlsx",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/xlsx",
+  "tags": [
+    "spreadsheet",
+    "xlsx",
+    "office"
+  ],
+  "version": "1.0.0",
+  "integrity": "dd316db7785a6be12966c2a2d848931fbf5f518b3cdb0a66fa62ee835ead1cfc"
+}

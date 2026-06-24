@@ -1,0 +1,13 @@
+{
+  "skill_name": "pptx",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/pptx",
+  "tags": [
+    "presentation",
+    "pptx",
+    "office"
+  ],
+  "version": "1.0.0",
+  "integrity": "e5b0df918cbe9d62508b3cf808d73899633f82fc19f6258a25ef9f0de7e62125"
+}

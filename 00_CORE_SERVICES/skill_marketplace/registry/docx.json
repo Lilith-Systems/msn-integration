@@ -1,0 +1,13 @@
+{
+  "skill_name": "docx",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/docx",
+  "tags": [
+    "document",
+    "docx",
+    "office"
+  ],
+  "version": "1.0.0",
+  "integrity": "cfbabd72b1aec7dfaad988fb6e5e16b27dc744b9a00cae15db9045e95f53903e"
+}

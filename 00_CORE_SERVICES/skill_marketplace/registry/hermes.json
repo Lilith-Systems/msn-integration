@@ -1,0 +1,13 @@
+{
+  "skill_name": "hermes",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/hermes",
+  "tags": [
+    "hermes",
+    "bridge",
+    "marketplace"
+  ],
+  "version": "1.0.0",
+  "integrity": "59e1d5444c99332a6542fb67c55c2571b76453d928410d096a8f492bab1cf49d"
+}

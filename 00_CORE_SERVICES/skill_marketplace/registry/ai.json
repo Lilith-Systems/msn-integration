@@ -1,0 +1,13 @@
+{
+  "skill_name": "ai",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/ai",
+  "tags": [
+    "cli",
+    "infrastructure",
+    "ai"
+  ],
+  "version": "1.0.0",
+  "integrity": "77d9bca872e1d1394c33b7faf5250fa36bd554f2f168140d6ac786ff83791da8"
+}

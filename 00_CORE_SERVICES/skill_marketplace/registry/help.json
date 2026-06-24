@@ -1,0 +1,13 @@
+{
+  "skill_name": "help",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/help",
+  "tags": [
+    "help",
+    "documentation",
+    "support"
+  ],
+  "version": "1.0.0",
+  "integrity": "bc0f41c65b72ca6364bbb940fdeccc19410f336a2dbda8865c56625f77d8ea1c"
+}

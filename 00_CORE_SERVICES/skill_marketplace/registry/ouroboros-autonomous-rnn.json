@@ -1,0 +1,13 @@
+{
+  "skill_name": "ouroboros-autonomous-rnn",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/ouroboros-autonomous-rnn",
+  "tags": [
+    "ouroboros",
+    "rnn",
+    "autonomous"
+  ],
+  "version": "1.0.0",
+  "integrity": "1e9e52a2f15ff2b467d7d37435532c3ab1453b80ab9d123be33f7c3cf89964a9"
+}

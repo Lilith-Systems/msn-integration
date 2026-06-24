@@ -1,0 +1,13 @@
+{
+  "skill_name": "client-codebase",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/client-codebase",
+  "tags": [
+    "client",
+    "phaser",
+    "typescript"
+  ],
+  "version": "1.0.0",
+  "integrity": "c5fec2c27c44806f8f2527a6a6ac2db2c1183fe8059d5ebf105d1f8edc66e2ab"
+}

@@ -1,0 +1,13 @@
+{
+  "skill_name": "swarm-orchestration",
+  "codex_mode": "Performance",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/swarm-orchestration",
+  "tags": [
+    "swarm",
+    "orchestration",
+    "deployment"
+  ],
+  "version": "1.0.0",
+  "integrity": "b633107c5d42b9ed34907a9ebc58f5f2f6c0dbb5b5273b38253a96e4a5b54298"
+}

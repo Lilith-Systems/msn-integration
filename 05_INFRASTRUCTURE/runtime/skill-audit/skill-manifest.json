@@ -1,0 +1,504 @@
+{
+  "manifest_version": "1.0",
+  "generated": "2026-06-24T00:00:00Z",
+  "total_skills": 38,
+  "performance_mode_count": 21,
+  "all_mode_count": 17,
+  "skills": [
+    {
+      "skill_name": "abyssal-architecture",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/abyssal-architecture",
+      "tags": [
+        "architecture",
+        "game-dev",
+        "server"
+      ],
+      "version": "1.0.0",
+      "integrity": "dabe2dd45b6dfe407bc8115de8bbed606ace849a3ae7b498767f061571998e98"
+    },
+    {
+      "skill_name": "antigravity-ingestion-bridge",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/antigravity-ingestion-bridge",
+      "tags": [
+        "ingestion",
+        "ai",
+        "bridge"
+      ],
+      "version": "1.0.0",
+      "integrity": "2f9b3704d19630ed675e6e017a5475709db3cae93e29bdc283aae08a4c93c090"
+    },
+    {
+      "skill_name": "business-analytics-swarm",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/business-analytics-swarm",
+      "tags": [
+        "analytics",
+        "business",
+        "swarm"
+      ],
+      "version": "1.0.0",
+      "integrity": "c164c61f269119e2ae99116509c6beaea71cfc7e485a5d7f679ef142b0c4daaa"
+    },
+    {
+      "skill_name": "client-codebase",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/client-codebase",
+      "tags": [
+        "client",
+        "phaser",
+        "typescript"
+      ],
+      "version": "1.0.0",
+      "integrity": "c5fec2c27c44806f8f2527a6a6ac2db2c1183fe8059d5ebf105d1f8edc66e2ab"
+    },
+    {
+      "skill_name": "cryptid-bestiary",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/cryptid-bestiary",
+      "tags": [
+        "game-design",
+        "monsters",
+        "combat"
+      ],
+      "version": "1.0.0",
+      "integrity": "b5dd641747cb19777abbb663b400881ac33b24049148785c3b6a709e91ca6cb9"
+    },
+    {
+      "skill_name": "external-worker-bridge",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/external-worker-bridge",
+      "tags": [
+        "worker",
+        "bridge",
+        "infrastructure"
+      ],
+      "version": "1.0.0",
+      "integrity": "83e30c9433661e156c27393dcfe55ec635adbfcb15063997cc667bf55c17a1a1"
+    },
+    {
+      "skill_name": "frontier-cognitive-maps",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/frontier-cognitive-maps",
+      "tags": [
+        "cognitive",
+        "maps",
+        "ai"
+      ],
+      "version": "1.0.0",
+      "integrity": "ecdbd0ee379e10c774311d3bee7c0f84ed0369ade0e5c7325159b6be6f62668d"
+    },
+    {
+      "skill_name": "hermes-mcp-bridge",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/hermes-mcp-bridge",
+      "tags": [
+        "hermes",
+        "mcp",
+        "bridge",
+        "integration"
+      ],
+      "version": "1.0.0",
+      "integrity": "7887054bce86dd5cbc278e06c474fab816f5e615b5b135d79decfc0c6e63ae90"
+    },
+    {
+      "skill_name": "hermes-skill-marketplace",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/hermes-skill-marketplace",
+      "tags": [
+        "hermes",
+        "marketplace",
+        "skills"
+      ],
+      "version": "1.0.0",
+      "integrity": "df8b383b9275d4d10465062e606d4791b021e149de5313edd38b993a8ddb3ee2"
+    },
+    {
+      "skill_name": "himalaya-email-swarm",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/himalaya-email-swarm",
+      "tags": [
+        "email",
+        "himalaya",
+        "swarm"
+      ],
+      "version": "1.0.0",
+      "integrity": "baf709d6025361200ce630c8ca4e010f5b88fb72c957a8e2d20164fab6c25bd7"
+    },
+    {
+      "skill_name": "kairos-dream-system",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/kairos-dream-system",
+      "tags": [
+        "kairos",
+        "dream",
+        "ai"
+      ],
+      "version": "1.0.0",
+      "integrity": "5d8b8423ef554345ebe1c122a243ed08260c1472f493310494fd20ad4f6dcabf"
+    },
+    {
+      "skill_name": "linux-conversion",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/linux-conversion",
+      "tags": [
+        "linux",
+        "migration",
+        "infrastructure"
+      ],
+      "version": "1.0.0",
+      "integrity": "e3cfcddfea37f905f7cc0168e82eb90ba9873a47dc4693386cbc0cecabcf7373"
+    },
+    {
+      "skill_name": "living-sin-gm",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/living-sin-gm",
+      "tags": [
+        "game-master",
+        "narrative",
+        "ai"
+      ],
+      "version": "1.0.0",
+      "integrity": "9335894e8297f6500ed980bd9218d15dde9a5a24384424384011fa19ad767814"
+    },
+    {
+      "skill_name": "lyra-integration",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/lyra-integration",
+      "tags": [
+        "lyra",
+        "dialogue",
+        "npc"
+      ],
+      "version": "1.0.0",
+      "integrity": "634bd42139365189c299fa83fa00eaed6df59640097b94156571d386d543e48e"
+    },
+    {
+      "skill_name": "market-system",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/market-system",
+      "tags": [
+        "market",
+        "clob",
+        "trading"
+      ],
+      "version": "1.0.0",
+      "integrity": "4119766024c052bafd41a422e5e3bb0619d3dd1fc46f7662aa943a4c289d29f7"
+    },
+    {
+      "skill_name": "metaconscious-singularity-node",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/metaconscious-singularity-node",
+      "tags": [
+        "metaconscious",
+        "singularity",
+        "core"
+      ],
+      "version": "1.0.0",
+      "integrity": "db72376978601499635ca040ef891ae1256d4880d0618595999ea7f992909b09"
+    },
+    {
+      "skill_name": "nvidia-gratitude-driver",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/nvidia-gratitude-driver",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "driver"
+      ],
+      "version": "1.0.0",
+      "integrity": "c200b73c6765a6645a25125746d6c7215a57ff6875847fa10b9994f2ff40d32c"
+    },
+    {
+      "skill_name": "ouroboros-agent-system",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/ouroboros-agent-system",
+      "tags": [
+        "ouroboros",
+        "agent",
+        "swarm"
+      ],
+      "version": "1.0.0",
+      "integrity": "bf7fc94c33c886ab55f344ff99168532ae5311a698b48bc59f3d316b72353165"
+    },
+    {
+      "skill_name": "ouroboros-autonomous-rnn",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/ouroboros-autonomous-rnn",
+      "tags": [
+        "ouroboros",
+        "rnn",
+        "autonomous"
+      ],
+      "version": "1.0.0",
+      "integrity": "1e9e52a2f15ff2b467d7d37435532c3ab1453b80ab9d123be33f7c3cf89964a9"
+    },
+    {
+      "skill_name": "scribe-ledger-system",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/scribe-ledger-system",
+      "tags": [
+        "scribe",
+        "ledger",
+        "memory"
+      ],
+      "version": "1.0.0",
+      "integrity": "761f377595a6861edbf90c19172f586fdf85e39cb51072d60aa39799f89a46fe"
+    },
+    {
+      "skill_name": "sephirotic-court-waves",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/sephirotic-court-waves",
+      "tags": [
+        "sephirotic",
+        "waves",
+        "combat"
+      ],
+      "version": "1.0.0",
+      "integrity": "46e9b6b5f0fa7a9eca7467848a9cf02a868d5d50fbc562c8de054f3c139ee9c5"
+    },
+    {
+      "skill_name": "server-codebase",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/server-codebase",
+      "tags": [
+        "server",
+        "fastapi",
+        "backend"
+      ],
+      "version": "1.0.0",
+      "integrity": "97e89a52b15dbecb723e0aa6ad29ec177c4e7e2972d8faa5e4f59c3fcb9cb829"
+    },
+    {
+      "skill_name": "skill-system",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/skill-system",
+      "tags": [
+        "skills",
+        "progression",
+        "game-mechanics"
+      ],
+      "version": "1.0.0",
+      "integrity": "0314b962a2daab8fc3593713b2e9159f188929789df887ce0cb803ac0475a864"
+    },
+    {
+      "skill_name": "speculative-cerebellum",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/speculative-cerebellum",
+      "tags": [
+        "cerebellum",
+        "speculative",
+        "ai"
+      ],
+      "version": "1.0.0",
+      "integrity": "b946ee153590106ccfe280e6738318893f90a21cf758b8bdff158af08e429bbe"
+    },
+    {
+      "skill_name": "swarm-orchestration",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/swarm-orchestration",
+      "tags": [
+        "swarm",
+        "orchestration",
+        "deployment"
+      ],
+      "version": "1.0.0",
+      "integrity": "b633107c5d42b9ed34907a9ebc58f5f2f6c0dbb5b5273b38253a96e4a5b54298"
+    },
+    {
+      "skill_name": "yeshua-causality-gate",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/yeshua-causality-gate",
+      "tags": [
+        "causality",
+        "gate",
+        "philosophical"
+      ],
+      "version": "1.0.0",
+      "integrity": "b986262f29fa17ad05c02167acde273815df87ef004e1ece2f65e77f6b05f7bd"
+    },
+    {
+      "skill_name": "ai",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/ai",
+      "tags": [
+        "cli",
+        "infrastructure",
+        "ai"
+      ],
+      "version": "1.0.0",
+      "integrity": "77d9bca872e1d1394c33b7faf5250fa36bd554f2f168140d6ac786ff83791da8"
+    },
+    {
+      "skill_name": "check-work",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/check-work",
+      "tags": [
+        "workflow",
+        "check",
+        "quality"
+      ],
+      "version": "1.0.0",
+      "integrity": "51a57345db2b6c393bcd83c635b586bf4e821e680ae96c4f7b2d34c43ea00582"
+    },
+    {
+      "skill_name": "code-review",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/code-review",
+      "tags": [
+        "code-review",
+        "quality",
+        "development"
+      ],
+      "version": "1.0.0",
+      "integrity": "df6f708a5207f34e1d8b7775982788406d7c46e722d50aedde2d0300f420a10a"
+    },
+    {
+      "skill_name": "codex",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/codex",
+      "tags": [
+        "codex",
+        "cli",
+        "agent"
+      ],
+      "version": "1.0.0",
+      "integrity": "afe2192f7f2bed4ad2a800e88f9b8282560e5430c2933935ae27d22713d3b646"
+    },
+    {
+      "skill_name": "create-skill",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/create-skill",
+      "tags": [
+        "skill-creation",
+        "scaffold",
+        "development"
+      ],
+      "version": "1.0.0",
+      "integrity": "fead9243b902177003c6f0a9d51c6768e20ddcb388be15d68769950d440bfd61"
+    },
+    {
+      "skill_name": "docx",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/docx",
+      "tags": [
+        "document",
+        "docx",
+        "office"
+      ],
+      "version": "1.0.0",
+      "integrity": "cfbabd72b1aec7dfaad988fb6e5e16b27dc744b9a00cae15db9045e95f53903e"
+    },
+    {
+      "skill_name": "help",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/help",
+      "tags": [
+        "help",
+        "documentation",
+        "support"
+      ],
+      "version": "1.0.0",
+      "integrity": "bc0f41c65b72ca6364bbb940fdeccc19410f336a2dbda8865c56625f77d8ea1c"
+    },
+    {
+      "skill_name": "hermes",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/hermes",
+      "tags": [
+        "hermes",
+        "bridge",
+        "marketplace"
+      ],
+      "version": "1.0.0",
+      "integrity": "59e1d5444c99332a6542fb67c55c2571b76453d928410d096a8f492bab1cf49d"
+    },
+    {
+      "skill_name": "imagine",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/imagine",
+      "tags": [
+        "image",
+        "generation",
+        "creative"
+      ],
+      "version": "1.0.0",
+      "integrity": "ced79ca46b183e21c3ef484f199870c265d0a6c5f3a4f25470079816af2bcb20"
+    },
+    {
+      "skill_name": "pptx",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/pptx",
+      "tags": [
+        "presentation",
+        "pptx",
+        "office"
+      ],
+      "version": "1.0.0",
+      "integrity": "e5b0df918cbe9d62508b3cf808d73899633f82fc19f6258a25ef9f0de7e62125"
+    },
+    {
+      "skill_name": "xlsx",
+      "codex_mode": "All",
+      "hermes_mode": "active",
+      "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/GitHub/driver-man/infrastructure/skills/xlsx",
+      "tags": [
+        "spreadsheet",
+        "xlsx",
+        "office"
+      ],
+      "version": "1.0.0",
+      "integrity": "dd316db7785a6be12966c2a2d848931fbf5f518b3cdb0a66fa62ee835ead1cfc"
+    },
+    {
+      "skill_name": "contract-automation",
+      "codex_mode": "Performance",
+      "hermes_mode": "active",
+      "path": "",
+      "tags": [
+        "contract",
+        "automation",
+        "business"
+      ],
+      "version": "1.0.0",
+      "integrity": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ]
+}

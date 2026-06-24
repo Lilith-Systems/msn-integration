@@ -1,0 +1,13 @@
+{
+  "skill_name": "external-worker-bridge",
+  "codex_mode": "All",
+  "hermes_mode": "active",
+  "path": "/mnt/d/Lilith/\ud83d\udf0f AGI/Core/MSN_Engine/assets/abyssal-assets/.opencode/skills/external-worker-bridge",
+  "tags": [
+    "worker",
+    "bridge",
+    "infrastructure"
+  ],
+  "version": "1.0.0",
+  "integrity": "83e30c9433661e156c27393dcfe55ec635adbfcb15063997cc667bf55c17a1a1"
+}
